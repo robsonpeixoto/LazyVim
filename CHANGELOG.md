@@ -1,5 +1,18 @@
 # Changelog
 
+## [6.0.0](https://github.com/LazyVim/LazyVim/compare/v5.1.1...v6.0.0) (2023-07-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* **options:** set default localleader to \
+
+### Features
+
+* **keymaps:** added leader-K to run keywordprg ([a28acf0](https://github.com/LazyVim/LazyVim/commit/a28acf0ce7d00af11e7268c9edff579bd06abf56))
+* **lang:** add tex support ([#1156](https://github.com/LazyVim/LazyVim/issues/1156)) ([abaa6d9](https://github.com/LazyVim/LazyVim/commit/abaa6d90e4fe2c658b869e81a140a74f624d9299))
+* **options:** set default localleader to \ ([258f339](https://github.com/LazyVim/LazyVim/commit/258f339bcf8197ece54d66bf6ed6f351cb6e98cb))
+
 ## [5.1.1](https://github.com/LazyVim/LazyVim/compare/v5.1.0...v5.1.1) (2023-07-16)
 
 
